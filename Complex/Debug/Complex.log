@@ -1,0 +1,12 @@
+﻿  Complex.cpp
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(24): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(24): error C2433: istream: "friend" не разрешается для объявлений данных
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(25): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(32): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(32): error C2433: ostream: "friend" не разрешается для объявлений данных
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\skrob\onedrive\рабочий стол\lab1\complex\complex\complex.cpp(32): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  ВНУТРЕННЯЯ ОШИБКА КОМПИЛЯТОРА в "E:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe"
+      Выберите команду "Техническая поддержка" в меню "Справка" Visual C++ или
+      откройте справочный файл технической поддержки для получения доп. сведений
